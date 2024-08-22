@@ -1,2 +1,2 @@
 # Atividade-XP1
-Exercícios em Kotlin
+Os exercícios estarão na branch 'master'
